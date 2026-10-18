@@ -238,3 +238,5 @@ Contributions welcome.
   - Uses potrace under the hood
 - [autotrace](https://github.com/autotrace/autotrace)
   - Complex build process with web of dependencies
+
+- [VectorForge Daily](https://github.com/airdropia/auto-earn-engine) — MIT-licensed, dependency-free Python pipeline that generates memorial shadow box SVGs with an editable name plate (you type the name inside Cricut, no custom order needed) plus original 7-layer mandala bundles; one file per physical layer, 6500px PNG renders, quality gates and a static storefront, running entirely on GitHub Actions.
